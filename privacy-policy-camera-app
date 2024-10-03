@@ -6,10 +6,10 @@ Vijay Krishna ("I," "me," or "my") operates the Camera mobile application (the "
 
 1. Information Collection and Use
 
-The App requires access to your device's camera and microphone to provide video recording functionality. I also need access to your device's storage to save recorded videos and access your existing media files. The App may collect the following information:
+The App requires access to your device's camera and microphone to provide video recording functionality. I also need access to your device's media storage to save recorded videos and access your existing media files. The App may collect the following information:
 
 - Camera and microphone data during video recording
-- Storage access for saving and retrieving videos
+- Media storage access for saving and retrieving videos
 - Device information for app functionality and error reporting
 
 I use this information solely for the purpose of providing and improving the App's functionality. I do not share or sell your personal information to third parties.
@@ -24,7 +24,7 @@ The App requires the following permissions:
 
 - Camera: To capture video
 - Microphone: To record audio with video
-- Storage: To save and access videos on your device
+- Media storage access: To save and access videos on your device
 
 You can revoke these permissions at any time through your device settings, but this may impact the App's functionality.
 
